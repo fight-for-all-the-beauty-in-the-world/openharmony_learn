@@ -1,0 +1,18 @@
+{
+  "appSelected": {
+    "appId": "1264604131012665728",
+    "appName": "Demo02",
+    "deviceTypes": [
+      {
+        "deviceType": 4
+      }
+    ],
+    "enableSites": "CN",
+    "installationFree": 1,
+    "packageType": 7,
+    "projectId": "388421841221719856",
+    "projectName": "cloudDemo",
+    "siteId": "CN"
+  },
+  "teamId": "30086000727437388"
+}
